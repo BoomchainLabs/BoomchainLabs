@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on innovative blockchain projects and research initiatives.
 
-📫 How to reach me: BoomToken@gmail.com
+📫 How to reach me: boomtoken@outlook.com
 
 😄 Pronouns: they/them
 
