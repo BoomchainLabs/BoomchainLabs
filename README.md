@@ -32,7 +32,7 @@ To accelerate the adoption of blockchain technology by developing world-class so
 ---
 
 ### 📫 Connect With Us
-- **Website**: [www.boomchainlabs.com](https://www.boomchainlabs.com)
+- **Website**: [www.boomchainlab.com](https://www.boomchainlab.com)
 - **Twitter**: [@BoomchainLabs](https://twitter.com/BoomchainLabs)
 - **LinkedIn**: [BoomchainLabs](https://www.linkedin.com/company/boomchainlabs/)
 - **GitHub**: [BoomchainLabs](https://github.com/BoomchainLabs)
