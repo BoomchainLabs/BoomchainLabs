@@ -1,2 +1,2 @@
 - name: Honeybadger Deploy Action
-  uses: honeybadger-io/github-notify-deploy-action@v1
+  uses: honeybadger-io/github-notify-deploy-action@v2
